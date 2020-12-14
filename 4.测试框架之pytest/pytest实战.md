@@ -2,7 +2,7 @@
 
 1.打开pycharm，创建好项目及相关目录
 
-![image-20201101162521751](C:\Users\Administrator.DESKTOP-7PKNCLF\AppData\Roaming\Typora\typora-user-images\image-20201101162521751.png)
+![image-20201101162521751](pytest实战.assets/image-20201101162521751.png)
 
 2.创建一个版本库
 
